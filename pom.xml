@@ -10,7 +10,7 @@
 
 	<groupId>nz.ac.auckland.common</groupId>
 	<artifactId>common-spring-scanner</artifactId>
-	<version>1.2</version>
+	<version>1.3-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Common Spring Scanner</name>
@@ -22,7 +22,7 @@
 		<url>https://github.com/uoa-group-applications/common-spring-scanner</url>
 		<connection>scm:git:https://github.com/uoa-group-applications/common-spring-scanner.git</connection>
 		<developerConnection>scm:git:git@github.com:uoa-group-applications/common-spring-scanner.git</developerConnection>
-	  <tag>common-spring-scanner-1.2</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<dependencies>
